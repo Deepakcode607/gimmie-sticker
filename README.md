@@ -1,6 +1,6 @@
 📺 Watch Episode 146 [Git It?](https://youtu.be/HkdAHXoRtos) on YouTube
 
-# Notice: All Stickers have been Mailed
+# Notice: All Stickers have been Mailed.
 
 🚨 All stickers have been claimed and mailed out, but feel free to submit a PR if you just want some github practice.
 
